@@ -1,0 +1,4 @@
+# Never commit real secrets — use env vars referencing ${VAR_NAME}
+*.env
+.env
+secrets/
